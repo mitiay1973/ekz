@@ -1,0 +1,8 @@
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\obj\Debug\ekz.csproj.AssemblyReference.cache
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\obj\Debug\ekz.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\obj\Debug\ekz.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\bin\Debug\ekz.exe.config
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\bin\Debug\ekz.exe
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\bin\Debug\ekz.pdb
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\obj\Debug\ekz.exe
+\\main\RDP\33П\СорокинДА\Desktop\ekz\ekz\obj\Debug\ekz.pdb
